@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\asus\desktop\dp\main.cpp
+	<iostream>
+
+1516947060 source:c:\users\asus\desktop\dp\min_edit.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<algorithm>
+
